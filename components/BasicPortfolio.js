@@ -62,7 +62,7 @@ const PortfolioFeatured = () => {
         }}
         tools={['react', 'redux', 'firebase']}
       />
-       <Portfolio
+      <Portfolio
         name="Travel Guru"
         details="Travel Guru is a traveling project. User can book there hotel. This project developed by React JS and Firebase. Feel free to clone."
         links={{
@@ -79,13 +79,13 @@ const PortfolioFeatured = () => {
           githubLink: 'https://github.com/sauravb-git/pizza',
           websiteLink: 'https://saurav-pizza.herokuapp.com/',
         }}
-        tools={['react', 'redux', 'express', 'cors','stripe']}
+        tools={['react', 'redux', 'express', 'cors', 'stripe']}
       />
       <Portfolio
         name="Blog App"
         details="This  Blog Application Useing Laravel "
         links={{
-          githubLink: 'https://github.com/sauravb-git/blog-laravel', 
+          githubLink: 'https://github.com/sauravb-git/blog-laravel',
         }}
         tools={['laravel 8']}
       />
